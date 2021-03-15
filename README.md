@@ -8,4 +8,4 @@ GitHub space of Wyatt Toure
 <img src="https://github.com/wyatt-toure/wyatt-toure/blob/main/index-logo2.png" style="display:block; margin: 0 auto;"   width = '150%'>
 </p>
 
-I'm Wyatt and I've been learning to enjoy programming. Here you'll find mainly Python and R source code for projects I've been working on.
+Hi, I'm Wyatt and I've been learning to enjoy programming and using GitHub to keep track of projects I've got going on. Here you'll find mainly Python and R source code for projects I've been working (struggling) on. I also have a few guides coming down the pipeline including one on automating animal behaviour research and another on applying the Internet of Things for use in biological research. 
